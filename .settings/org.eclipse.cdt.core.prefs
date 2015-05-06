@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2074174512/ARCH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2074174512/ARCH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2074174512/ARCH/value=arm
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2074174512/CROSS_COMPILE/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2074174512/CROSS_COMPILE/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2074174512/CROSS_COMPILE/value=arm-linux-gnueabihf-
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2074174512/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.2074174512/appendContributed=true
